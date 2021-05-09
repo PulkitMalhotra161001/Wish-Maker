@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wish maker</string>
+    <string name="create_card">Create card</string>
+    <string name="pulkit">Pulkit</string>
+    <string name="enter_the_name">Enter the name</string>
+
+
+</resources>
